@@ -1,0 +1,8 @@
+Self_Exercise_link:-https://colab.research.google.com/drive/1r0oIHqgSfCwmfHHkKjrJ4ivi-djoD0PU?usp=drive_link
+
+Lab_Work_link:-https://colab.research.google.com/drive/15zrXDTVhPxlCkAYQWQSqRVIk-KcWR8jT?usp=drive_link
+
+Data_Types_link:-https://numpy.org/devdocs/reference/arrays.scalars.html
+
+10_minutes_numpy:-https://pandas.pydata.org/docs/user_guide/10min.html
+
